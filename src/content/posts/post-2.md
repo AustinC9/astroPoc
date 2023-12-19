@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkDownPostLayout.astro
 title: My Second Blog Post
 author: Austin Carson
 description: "After learning some Astro, I couldn't stop!"

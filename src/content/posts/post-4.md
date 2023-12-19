@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkDownPostLayout.astro
 title: My Fourth Blog Post
 author: Austin Carson
 description: "This post will show up on its own!"
